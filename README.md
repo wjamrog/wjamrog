@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋  This is Wei-Lee Jamrog
 
+- 🔭 I’m currently working on Google Advanced Data Analystics certificate
+- 🌱 I’m currently learning R and Python
+- 💬 Ask me about Cybersecurity and Program Management
+- ⚡ Fun fact: 
+  - My first job is writting code using PASCAL and code must fit within a 64K memory module.
+  - My second job is writting code in ASSEMBLY for the firmware of a SCSI floppy drive.
+  - My third job is writting code in Java for a software similar to Windows file explorer.
+    
 <!--
 **wjamrog/wjamrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
